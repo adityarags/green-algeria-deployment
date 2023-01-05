@@ -1,0 +1,9 @@
+models/2_DiseasesandPestsDetection/plantdisease500.h5 filter=lfs diff=lfs merge=lfs -text
+models/2_DiseasesandPestsDetection/plantdisease500-B3.h5 filter=lfs diff=lfs merge=lfs -text
+*.h5 filter=lfs diff=lfs merge=lfs -text
+models/1_IndoorClimateFactors/model.h5 filter=lfs diff=lfs merge=lfs -text
+models/3_RecommendationSystems/rf_model.h5 filter=lfs diff=lfs merge=lfs -text
+*.mp3 filter=lfs diff=lfs merge=lfs -text
+*.pth filter=lfs diff=lfs merge=lfs -text
+my_folder/** filter=lfs diff=lfs merge=lfs -text
+models/** filter=lfs diff=lfs merge=lfs -text
